@@ -4,8 +4,9 @@ The challenge track was coast warning system with dashboard, interactive map and
 
 The team members were
 Tirth Patel,
-Divy Mevada,
-Lakshya Mehta
+Divy Mevada[github](https://github.com/divy-mevada),
+Lakshya Mehta [github](https://github.com/LakshyaMehta16)
+
 
 
 # 🌊 Coastal Alarm System
