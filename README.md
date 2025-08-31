@@ -1,3 +1,11 @@
+This is the official submission of team 4Stack for HACKOUT'25 organised by Dhirubhai Ambani University (formerly DAIICT)
+The challenge track was coast warning system with dashboard, interactive map and notification system
+The team members were
+Tirth Patel
+Divy Mevada
+Lakshya Mehta
+
+
 # 🌊 Coastal Alarm System
 
 A comprehensive real-time coastal monitoring and alert system that combines machine learning predictions with live data feeds to provide early warnings for coastal hazards.
