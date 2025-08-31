@@ -1,5 +1,5 @@
-This is the official submission of team 4Stack for HACKOUT'25 organised by Dhirubhai Ambani University (formerly DAIICT)
-The challenge track was coast warning system with dashboard, interactive map and notification system
+This is the official submission of team 4Stack for HACKOUT'25 organised by Dhirubhai Ambani University (formerly DAIICT) \n
+The challenge track was coast warning system with dashboard, interactive map and notification system \n
 The team members were
 Tirth Patel
 Divy Mevada
